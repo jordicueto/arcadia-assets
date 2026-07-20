@@ -1,0 +1,328 @@
+{
+  "batch_id": "BATCH_02",
+  "public_base_url": "https://jordicueto.github.io/arcadia-assets/",
+  "assets_sheet": "30_VISUAL_ASSETS",
+  "mapping_sheet": "33_MODULE_MAPPINGS",
+  "assets": [
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "tx_orbital_observatory_safearea_v01",
+      "module": "transmision",
+      "family": "orbital_observatory",
+      "variant": "v01",
+      "scene_role": "background",
+      "tone_profile": "sci_fi_calm",
+      "target_slot": "fullscreen",
+      "target_width_px": 800,
+      "target_height_px": 480,
+      "github_relative_path": "assets/tx/tx_orbital_observatory_safearea_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/tx/tx_orbital_observatory_safearea_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Observatorio orbital con safe area",
+      "notes": "Transmisión sci-fi con espacio libre abajo al centro para tarjeta de mensaje",
+      "tags": [
+        "transmision",
+        "space",
+        "orbital",
+        "stars",
+        "sci_fi"
+      ],
+      "mappings": [
+        "transmision",
+        "space",
+        "orbital",
+        "stars",
+        "sci_fi"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "tx_arcane_library_safearea_v01",
+      "module": "transmision",
+      "family": "arcane_library",
+      "variant": "v01",
+      "scene_role": "background",
+      "tone_profile": "fantasy_mystic",
+      "target_slot": "fullscreen",
+      "target_width_px": 800,
+      "target_height_px": 480,
+      "github_relative_path": "assets/tx/tx_arcane_library_safearea_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/tx/tx_arcane_library_safearea_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Biblioteca arcana con safe area",
+      "notes": "Transmisión fantasy con espacio libre abajo al centro para tarjeta de mensaje",
+      "tags": [
+        "transmision",
+        "fantasy",
+        "library",
+        "magic",
+        "moon"
+      ],
+      "mappings": [
+        "transmision",
+        "fantasy",
+        "library",
+        "magic",
+        "moon"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "ander_jordi_tummy_time_nursery_v01",
+      "module": "ander",
+      "family": "jordi_tummy_time",
+      "variant": "v01",
+      "scene_role": "panel",
+      "tone_profile": "cozy_day",
+      "target_slot": "panel_lateral",
+      "target_width_px": 360,
+      "target_height_px": 300,
+      "github_relative_path": "assets/ander/ander_jordi_tummy_time_nursery_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/ander/ander_jordi_tummy_time_nursery_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Jordi y Ander tummy time",
+      "notes": "Útil para tummy time, desarrollo motor y vínculo",
+      "tags": [
+        "ander",
+        "jordi",
+        "tummy_time",
+        "motor",
+        "bonding"
+      ],
+      "mappings": [
+        "tummy_time",
+        "motor",
+        "bonding",
+        "jordi",
+        "ander"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "ander_ana_bedtime_reading_v01",
+      "module": "ander",
+      "family": "ana_reading",
+      "variant": "v01",
+      "scene_role": "panel",
+      "tone_profile": "cozy_night",
+      "target_slot": "panel_lateral",
+      "target_width_px": 360,
+      "target_height_px": 300,
+      "github_relative_path": "assets/ander/ander_ana_bedtime_reading_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/ander/ander_ana_bedtime_reading_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Ana leyendo a Ander",
+      "notes": "Útil para lenguaje, bedtime y lectura",
+      "tags": [
+        "ander",
+        "ana",
+        "reading",
+        "bedtime",
+        "language"
+      ],
+      "mappings": [
+        "reading",
+        "language",
+        "bedtime",
+        "ana",
+        "ander"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "ander_family_space_observation_v01",
+      "module": "ander",
+      "family": "family_space",
+      "variant": "v01",
+      "scene_role": "panel",
+      "tone_profile": "sci_fi_warm",
+      "target_slot": "panel_lateral",
+      "target_width_px": 360,
+      "target_height_px": 300,
+      "github_relative_path": "assets/ander/ander_family_space_observation_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/ander/ander_family_space_observation_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Familia en observatorio espacial",
+      "notes": "Escena especial de familia con sci-fi cálido",
+      "tags": [
+        "ander",
+        "family",
+        "space",
+        "bonding",
+        "special"
+      ],
+      "mappings": [
+        "family",
+        "space",
+        "bonding",
+        "special",
+        "ander"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "enigma_switches_lamps_lab_v01",
+      "module": "enigma",
+      "family": "switches_lamps",
+      "variant": "v01",
+      "scene_role": "wide",
+      "tone_profile": "mystery_study",
+      "target_slot": "enigma_main",
+      "target_width_px": 480,
+      "target_height_px": 300,
+      "github_relative_path": "assets/enigma/enigma_switches_lamps_lab_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/enigma/enigma_switches_lamps_lab_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Laboratorio de switches y focos",
+      "notes": "Útil para acertijos de lógica, switches y deducción",
+      "tags": [
+        "enigma",
+        "logic",
+        "switches",
+        "lamps",
+        "deduction"
+      ],
+      "mappings": [
+        "logic",
+        "switches",
+        "lamps",
+        "deduction",
+        "enigma"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "home_desk_agenda_window_v01",
+      "module": "home",
+      "family": "desk_agenda",
+      "variant": "v01",
+      "scene_role": "microscene",
+      "tone_profile": "organized_home",
+      "target_slot": "micro_utility",
+      "target_width_px": 300,
+      "target_height_px": 160,
+      "github_relative_path": "assets/home/home_desk_agenda_window_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/home/home_desk_agenda_window_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Escritorio y agenda junto a ventana",
+      "notes": "Útil para agenda, pendientes y organización del hogar",
+      "tags": [
+        "home",
+        "agenda",
+        "desk",
+        "planning",
+        "organization"
+      ],
+      "mappings": [
+        "agenda",
+        "desk",
+        "planning",
+        "organization",
+        "home"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "home_outing_prep_diaper_bag_v01",
+      "module": "home",
+      "family": "outing_prep",
+      "variant": "v01",
+      "scene_role": "microscene",
+      "tone_profile": "organized_family",
+      "target_slot": "micro_utility",
+      "target_width_px": 300,
+      "target_height_px": 160,
+      "github_relative_path": "assets/home/home_outing_prep_diaper_bag_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/home/home_outing_prep_diaper_bag_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Preparación para salida con bebé",
+      "notes": "Útil para salidas, checklist y preparación",
+      "tags": [
+        "home",
+        "outing",
+        "baby",
+        "diaper_bag",
+        "prep"
+      ],
+      "mappings": [
+        "outing",
+        "baby",
+        "diaper_bag",
+        "prep",
+        "home"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "arcade_card_games_english_table_v02",
+      "module": "arcade",
+      "family": "card_games",
+      "variant": "v02",
+      "scene_role": "card",
+      "tone_profile": "tabletop_cozy",
+      "target_slot": "game_card",
+      "target_width_px": 240,
+      "target_height_px": 144,
+      "github_relative_path": "assets/arcade/arcade_card_games_english_table_v02.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/arcade/arcade_card_games_english_table_v02.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Escena de cartas con baraja inglesa",
+      "notes": "Fallback o visual principal para Card Games / baraja inglesa",
+      "tags": [
+        "arcade",
+        "cards",
+        "english_deck",
+        "card_games",
+        "fallback"
+      ],
+      "mappings": [
+        "cards",
+        "english_deck",
+        "card_games",
+        "fallback",
+        "arcade"
+      ]
+    },
+    {
+      "batch_id": "BATCH_02",
+      "asset_id": "arcade_coop_boardgame_table_v01",
+      "module": "arcade",
+      "family": "coop_boardgame",
+      "variant": "v01",
+      "scene_role": "card",
+      "tone_profile": "tabletop_cozy",
+      "target_slot": "game_card",
+      "target_width_px": 240,
+      "target_height_px": 144,
+      "github_relative_path": "assets/arcade/arcade_coop_boardgame_table_v01.png",
+      "asset_url": "https://jordicueto.github.io/arcadia-assets/assets/arcade/arcade_coop_boardgame_table_v01.png",
+      "status": "approved",
+      "version": "v3",
+      "title": "Escena de juego cooperativo de mesa",
+      "notes": "Visual para board games cooperativos",
+      "tags": [
+        "arcade",
+        "boardgame",
+        "coop",
+        "tabletop",
+        "strategy"
+      ],
+      "mappings": [
+        "boardgame",
+        "coop",
+        "tabletop",
+        "strategy",
+        "arcade"
+      ]
+    }
+  ]
+}
